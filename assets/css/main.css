@@ -2,7 +2,7 @@
 
 #content {
     font-family: RobotoSlabRegular, Georgia serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     text-align: center;
     width: 1000px;
     margin: 90px auto;
@@ -10,7 +10,7 @@
 }
 
 table {
-    table-layout:fixed; width:1000px;
+    width:100%;
 }
 
 th {
